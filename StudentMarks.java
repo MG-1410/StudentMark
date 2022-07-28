@@ -19,6 +19,7 @@ public class StudentMarks {
             System.out.println(s[i].display());
             System.out.println(s[i].toString());
             System.out.println();
-        }
+        }   
+        
     }
 }
